@@ -1,4 +1,4 @@
-# Chocolate-Sales-Prediction-using-Random-Forest-Regressor
+# Sales-Prediction-using-Random-Forest-Regressor
 📌 About the Project
 
 This project aims to predict chocolate sales amounts using a Random Forest Regressor. The model is trained on a chocolate sales dataset containing transactional sales records, including details such as sales person, country, product type, boxes shipped, and transaction date. The objective is to analyze historical sales data and build a machine learning model capable of estimating future sales amounts.
