@@ -1,12 +1,12 @@
 # Sales-Prediction-using-Random-Forest-Regressor
 📌 About the Project
 
-This project aims to predict chocolate sales amounts using a Random Forest Regressor. The model is trained on a chocolate sales dataset containing transactional sales records, including details such as sales person, country, product type, boxes shipped, and transaction date. The objective is to analyze historical sales data and build a machine learning model capable of estimating future sales amounts.
+This project aims to predict sales amounts using a Random Forest Regressor. The model is trained on a chocolate sales dataset containing transactional sales records, including details such as sales person, country, product type, boxes shipped, and transaction date. The objective is to analyze historical sales data and build a machine learning model capable of estimating future sales amounts.
 
 The project follows an end-to-end machine learning workflow, including data cleaning, feature engineering, categorical encoding, model training, evaluation, and visualization.
 
 📂 Dataset Description
-The sample dataset is taken from https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales
+The sample dataset is taken from https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales.
 The dataset used in this project consists of chocolate sales transactions with the following attributes:
 
 Sales Person – Name of the salesperson involved in the transaction
